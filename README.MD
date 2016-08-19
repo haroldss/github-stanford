@@ -7,7 +7,8 @@ Topics
 * What are Version Control Systems
 * History of Git and GitHub
 * How git works
-* Creating, cloning, branching, merging a repo
+* Creating repo
+* Cloning, branching, merging a repo
 * Pull Requests
 
 Downloads
@@ -22,3 +23,7 @@ Git Resources
 * [Up and Running with Git and GitHub - Lynda] (https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
 * [Learn Git - Codecademy] (https://www.codecademy.com/learn/learn-git)
 * [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+Adds stuff
+Deletes other stuff
