@@ -23,7 +23,13 @@ Git Resources
 * [Up and Running with Git and GitHub - Lynda] (https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
 * [Learn Git - Codecademy] (https://www.codecademy.com/learn/learn-git)
 * [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<<<<<<< HEAD
 
 
 Adds stuff
 Deletes other stuff
+=======
+* 
+
+TODO: Upload gitlab video
+>>>>>>> d6c399d67cadf9b1694ffbf9cf7c93183dc8d5ac
