@@ -22,3 +22,6 @@ Git Resources
 * [Up and Running with Git and GitHub - Lynda] (https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
 * [Learn Git - Codecademy] (https://www.codecademy.com/learn/learn-git)
 * [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* 
+
+TODO: Upload gitlab video
