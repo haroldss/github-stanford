@@ -1,6 +1,6 @@
 Git &amp; Github - Techie Festival
 =========================
-In this course, we will introduce the core concepts of Git, Github, and related features of version control systems.
+In this course, we will introduce the core concepts of Git, GitHub, and related features of version control systems.
 
 Topics
 ------
