@@ -1,4 +1,4 @@
-Git &amp; Github - Techie Festival
+Git &amp; GitHub
 =========================
 In this course, we will introduce the core concepts of Git, GitHub, and related features of version control systems.
 
