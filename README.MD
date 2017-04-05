@@ -13,13 +13,13 @@ Topics
 
 Downloads
 ---------------
-* [Mac, Windows Git Installer] (https://git-scm.com/downloads)
-* [GitHub Desktop] (https://desktop.github.com/)
+* [Mac, Windows Git Installer](https://git-scm.com/downloads)
+* [GitHub Desktop](https://desktop.github.com/)
 
 Git Resources
 -------------
-* [GitHub Education] (https://education.github.com/)
-* [GitHub Help] (https://help.github.com/)
-* [Up and Running with Git and GitHub - Lynda] (https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
-* [Learn Git - Codecademy] (https://www.codecademy.com/learn/learn-git)
-* [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [GitHub Education](https://education.github.com/)
+* [GitHub Help](https://help.github.com/)
+* [Up and Running with Git and GitHub - Lynda](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
+* [Learn Git - Codecademy](https://www.codecademy.com/learn/learn-git)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
